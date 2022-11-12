@@ -1,0 +1,39 @@
+
+
+	Nombre/s y apellido/s: Drere rere
+	Matricula: 1
+	Materia: 3dre
+	Calificacion 1: 67.78
+	Calificacion 1: 56.67
+	Calificacion 1: 45.56
+	Promedio: 57.22
+	Telefono: 12345678
+	Correo electronico: dr23@hotmail.com
+	Semestre: 23
+	Direccion: dre 23 fde
+
+
+	Nombre/s y apellido/s: rororo ororor
+	Matricula: 2
+	Materia: 5er
+	Calificacion 1: 89.89
+	Calificacion 1: 23.45
+	Calificacion 1: 67.67
+	Promedio: 54.43
+	Telefono: 34233423
+	Correo electronico: 12sd@hotmail.com
+	Semestre: 56
+	Direccion: dr 43
+
+
+	Nombre/s y apellido/s: Erer rer er
+	Matricula: 3
+	Materia: Dfdfd
+	Calificacion 1: 56.56
+	Calificacion 1: 67.67
+	Calificacion 1: 23.34
+	Promedio: 53.25
+	Telefono: 342312232
+	Correo electronico: asdwe@hotmail.com
+	Semestre: 12
+	Direccion: dr

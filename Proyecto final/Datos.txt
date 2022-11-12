@@ -1,0 +1,39 @@
+
+
+	Nombre/s y apellido/s: Erer rer
+	Matricula: 1
+	Materia: rere12
+	Calificacion 1: 56.78
+	Calificacion 1: 78.67
+	Calificacion 1: 90.89
+	Promedio: 75.15
+	Telefono: 12345678
+	Correo electronico: fr45@hotmail.com
+	Semestre: 45
+	Direccion: 56 df
+
+
+	Nombre/s y apellido/s: frfrf rfrf
+	Matricula: 2
+	Materia: 5.67
+	Calificacion 1: 78.78
+	Calificacion 1: 67.78
+	Calificacion 1: 98.89
+	Promedio: 78.85
+	Telefono: 12345678
+	Correo electronico: we23@hotmail.com
+	Semestre: 34
+	Direccion: 45
+
+
+	Nombre/s y apellido/s: Grgrg rgrg
+	Matricula: 3
+	Materia: dede
+	Calificacion 1: 4.34
+	Calificacion 1: 45.56
+	Calificacion 1: 67.78
+	Promedio: 38.74
+	Telefono: 4545454545
+	Correo electronico: 455dr}@hotmail.com
+	Semestre: 45
+	Direccion: 56

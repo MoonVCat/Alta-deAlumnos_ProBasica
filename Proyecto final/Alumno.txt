@@ -1,0 +1,13 @@
+
+
+	Nombre/s y apellido/s:  antu
+	Matricula: 1
+	Materia: mate
+	Calificacion 1: 33.4
+	Calificacion 1: 67.89
+	Calificacion 1: 67.67
+	Promedio: 57.48
+	Telefono: 12345678
+	Correo electronico: asdd23@hotmail.com
+	Semestre: 8
+	Direccion: 2342, dsadas, sdad
